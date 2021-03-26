@@ -1,0 +1,9 @@
+D:\Cosas Alex\Proyectos Pruebas\Blackmouth-UR\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Cosas Alex\Proyectos Pruebas\Blackmouth-UR\MyProject\Source\MyProject/MyProjectGameModeBase.h
+D:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+d:\cosas alex\proyectos pruebas\blackmouth-ur\myproject\intermediate\build\win64\ue4editor\inc\myproject\MyProjectGameModeBase.generated.h
